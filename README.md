@@ -1,4 +1,4 @@
 ## SEI_database-Sample-
 
-Created a database, updated values into it. 
-Retrieved the data from data base using sql
+Created a database from MySQL workbench, Added data into database. 
+Retrieved the data from database- SEI_database using sql
